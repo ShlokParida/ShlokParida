@@ -43,7 +43,7 @@
 
 <br />
 
-<img align="left" alt="Kaneki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dEvK4n3Ki&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img align="left" alt="Shlok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShlokParida&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 [Plasma]: https://plasma.covidindiataskforce.org/
 [tracer]: https://tracerind.covidindiataskforce.org/
