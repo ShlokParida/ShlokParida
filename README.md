@@ -4,7 +4,6 @@
 ### Hello! I'm Shlok 
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="k3n.kan3k1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="k3n.kan3k1 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
 <code><img align="right" alt="GIF" width = "300" src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" /></code>
 
